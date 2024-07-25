@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab6.py
+===============================================================
+    User login name: lakshay
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/lakshay/ops445/lab6/lab-6-ldahiya500
+    Start at: Thu Jul 25 18:45:51 2024
+===============================================================
